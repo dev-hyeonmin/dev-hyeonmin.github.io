@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.74bcc25c.css",
-    "main.js": "/static/js/main.d9a09d78.js",
+    "main.css": "/static/css/main.3e2b0230.css",
+    "main.js": "/static/js/main.58573009.js",
     "static/js/787.caf4ef13.chunk.js": "/static/js/787.caf4ef13.chunk.js",
+    "static/media/my-profile.jpeg": "/static/media/my-profile.54992b4f8fd87cf6a702.jpeg",
+    "static/media/instagram.png": "/static/media/instagram.c067a645b8bc333d93ac.png",
+    "static/media/github.png": "/static/media/github.39a82e1065ea2a2ae390.png",
+    "static/media/videogame1.png": "/static/media/videogame1.4c6ac45ae3d2f2870a93.png",
+    "static/media/videogame.png": "/static/media/videogame.c575b1c82ce4f70ea592.png",
+    "static/media/warning.png": "/static/media/warning.17e7c321e58df659747c.png",
+    "static/media/emoji.png": "/static/media/emoji.803e895fea3acfb6a12b.png",
+    "static/media/cool_imoji.png": "/static/media/cool_imoji.98385f2beabaaac238ba.png",
+    "static/media/skill.png": "/static/media/skill.cb819789acbacf9b37c1.png",
     "index.html": "/index.html",
-    "main.74bcc25c.css.map": "/static/css/main.74bcc25c.css.map",
-    "main.d9a09d78.js.map": "/static/js/main.d9a09d78.js.map",
+    "main.3e2b0230.css.map": "/static/css/main.3e2b0230.css.map",
+    "main.58573009.js.map": "/static/js/main.58573009.js.map",
     "787.caf4ef13.chunk.js.map": "/static/js/787.caf4ef13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74bcc25c.css",
-    "static/js/main.d9a09d78.js"
+    "static/css/main.3e2b0230.css",
+    "static/js/main.58573009.js"
   ]
 }
